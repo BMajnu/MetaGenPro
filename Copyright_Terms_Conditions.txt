@@ -1,0 +1,66 @@
+COPYRIGHT TERMS & CONDITIONS
+
+© 2024 MetaGenPro. All Rights Reserved.
+
+By installing, accessing, or using the MetaGenPro application ("Application"), you agree to be bound by these Terms and Conditions. If you do not agree to these terms, do not install, access, or use the Application.
+
+1. DEFINITIONS
+
+   a) "Application" refers to MetaGenPro, a C# and C++ code generation tool that utilizes the Google Gemini API.
+   b) "User" refers to any individual who installs, accesses, or uses the Application.
+   c) "Content" refers to any code, text, or other output generated through the Application.
+   d) "API" refers to the Google Gemini API integrated with the Application.
+
+2. LICENSE TERMS
+
+   MetaGenPro grants you a personal, non-exclusive, non-transferable, limited license to use the Application for personal and non-commercial purposes only. This license is subject to your compliance with these Terms and Conditions.
+
+3. API KEY RESPONSIBILITIES
+
+   a) You are responsible for obtaining, managing, and securing your Google Gemini API key.
+   b) You agree to use your API key in compliance with Google's terms and conditions.
+   c) You acknowledge that any costs associated with API usage are your sole responsibility.
+   d) You must not share your API key with any third party or use it for purposes outside the Application.
+   e) MetaGenPro is not responsible for any unauthorized use of your API key or associated costs.
+
+4. CONTENT OWNERSHIP AND RIGHTS
+
+   a) You retain ownership of any Content you generate using the Application.
+   b) You are responsible for ensuring that your use of the Application does not infringe upon the intellectual property rights of any third party.
+   c) MetaGenPro retains ownership of all intellectual property rights in the Application, including its design, functionality, and source code.
+   d) MetaGenPro does not claim ownership of the code you generate using the Application.
+
+5. PRIVACY AND DATA
+
+   a) The Application may collect certain usage data to improve functionality and user experience.
+   b) Your prompts and queries may be transmitted to the Google Gemini API for processing.
+   c) MetaGenPro will not share your personal information with third parties except as required by law or as necessary to provide the Application's services.
+   d) By using the Application, you consent to the collection and processing of your data as described herein.
+
+6. WARRANTY DISCLAIMER
+
+   THE APPLICATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. METAGENPRO DOES NOT WARRANT THAT THE APPLICATION WILL MEET YOUR REQUIREMENTS OR THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL METAGENPRO BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE APPLICATION, EVEN IF METAGENPRO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. COMPATIBILITY REQUIREMENTS
+
+   The Application requires Windows 10 or newer to operate. MetaGenPro does not guarantee compatibility with other operating systems or older versions of Windows.
+
+9. TERMINATION
+
+   MetaGenPro reserves the right to terminate your access to the Application if you violate these Terms and Conditions or use the Application for any purpose that MetaGenPro, in its sole discretion, deems improper or unacceptable.
+
+10. GOVERNING LAW
+
+    These Terms and Conditions shall be governed by and construed in accordance with the laws of Bangladesh, without regard to its conflict of law principles.
+
+11. AMENDMENTS
+
+    MetaGenPro reserves the right to modify these Terms and Conditions at any time. Your continued use of the Application after any such changes constitutes your acceptance of the new Terms and Conditions.
+
+For any questions regarding these Terms and Conditions, please contact: mmizan79@gmail.com
+
+Last Updated: June 2024 
